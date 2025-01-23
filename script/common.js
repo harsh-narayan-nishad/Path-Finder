@@ -1,3 +1,4 @@
+// Common js
 function getPath(parentMap,curr){
   let path = [];
   while(curr !== null){

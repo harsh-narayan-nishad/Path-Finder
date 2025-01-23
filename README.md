@@ -1,4 +1,4 @@
-# Graph Algorithms Visualizer
+# Graph Algorithm Visualizer
 ---
 Graph Algorithms visualizer project which visualizes Different types of graph algorithms on a MxN Grid
 - Path-finding algorithms 

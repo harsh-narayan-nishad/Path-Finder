@@ -1,3 +1,4 @@
+//Grid 
 document.addEventListener("DOMContentLoaded",generateGrid);
 document.querySelector("#size-slider").addEventListener("input", (e) => resizeGrid(e.target.value));
 const NODE_SIZE = 28;

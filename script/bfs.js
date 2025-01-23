@@ -1,3 +1,4 @@
+// BFS
 function bfs(grid, start, end, q, parentMap, choices)
 {
   let size = 0;

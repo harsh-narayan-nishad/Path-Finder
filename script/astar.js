@@ -1,3 +1,4 @@
+// a* algo
 function astar(grid,start,end,parentMap,distanceMap,hMap,processed,minHeap,choices){
   let curr = null;
   if(minHeap.length){

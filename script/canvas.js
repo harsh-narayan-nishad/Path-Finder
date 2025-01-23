@@ -1,3 +1,4 @@
+// canvas
 document.addEventListener("DOMContentLoaded",createCanvas);
 document.querySelector("#clear-canvas").addEventListener("click",clear);
 document.querySelector("#nodes-slider").addEventListener("input",changeAmount);

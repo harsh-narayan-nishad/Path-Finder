@@ -1,3 +1,4 @@
+// DIJKSTRA
 function dijkstra(grid, start, end,distanceMap,processed,choices,parentMap, minHeap){
   let curr = null;
   if(minHeap.length){

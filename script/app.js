@@ -5,7 +5,7 @@
 // document.querySelector("#bidirectional-astar").addEventListener("click",executeBidrectionalAStar);
 // document.querySelector("#bidirectional-bfs").addEventListener("click",executeBidrectionalBFS);
 // document.querySelector("#bidirectional-greedy-bfs").addEventListener("click",executeBidrectionalGreedyBFS);
-// document.querySelector("#greedybest").addEventListener("click",executeGreedyBestFirst);
+// document.querySelector("#greedybest").addEventListener("click",executeGreedyBestFirst);;
 document.querySelector("#clear-path").addEventListener("click",clearGrid);
 document.querySelector("#clear").addEventListener("click",(e)=>{clearGrid(0,false,true); e.target.disabled = true; document.querySelector("#clear-path").disabled = true;});
 document.querySelector("#clear-path").addEventListener("click",(e)=>{clearGrid(); e.target.disabled = true;});

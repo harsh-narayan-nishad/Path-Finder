@@ -1,3 +1,4 @@
+//Generate Maze Prism
 function generateMazePrim(grid,frontierList,choices){
     if(frontierList.length){
       let rnd = Math.floor(Math.random() * frontierList.length);

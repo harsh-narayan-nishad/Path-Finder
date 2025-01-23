@@ -1,3 +1,4 @@
+//Vertex
 class Vertix{
   constructor(x,y){
     this.x = x;

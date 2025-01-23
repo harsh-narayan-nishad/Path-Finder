@@ -1,3 +1,4 @@
+//Node
 class Node{
   constructor(divReference, row, col, isStart = false, isEnd = false, isWall = false, weight = 0){
     this.row = row;

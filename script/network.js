@@ -1,3 +1,4 @@
+// Network
 document.querySelector("#task-adder").addEventListener("click", generateFormInput);
 document.querySelector("#network-visualizer").addEventListener("click", visualizeNetwork);
 
